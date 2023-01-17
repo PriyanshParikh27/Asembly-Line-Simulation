@@ -4,8 +4,9 @@
 Full Name  : Priyansh Parikh
 Student ID#: 158341214
 Email      : pparikh8@myseneca.ca
-Section    : NGG
 Date       : 02/12/2022
+I confirm that I am the only author of this file
+and the content was created entirely by me.
 *****************************************************************************
 */
 
