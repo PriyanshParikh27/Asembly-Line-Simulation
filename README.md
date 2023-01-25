@@ -14,4 +14,4 @@ Object Oriented Programming/C++ Project
 `OOP.exe Stations1.txt Stations2.txt CustomerOrders.txt AssemblyLine.txt`
 
 
-## Please read [Project Overview](https://github.com/PriyanshParikh27/Seneca-Library-Application/tree/main/Project%20Overview).
+## Please read [Project Overview](https://github.com/PriyanshParikh27/Asembly-Line-Simulation/tree/main/Project%20Overview).
